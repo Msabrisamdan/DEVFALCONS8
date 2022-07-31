@@ -1,0 +1,3 @@
+SELECT id ,name, MailingCity FROM Contact WHERE MailingCity = 'Paris'
+
+SELECT id, name, Birthdate, MailingCity, MailingCountry FROM Contact WHERE Name LIKE '%A%'
