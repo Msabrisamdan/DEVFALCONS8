@@ -4,6 +4,7 @@ public class ArthimatticalCalculations {
         System.debug(sum);
 
     }
+    // Dort islem
     public void Subtraction(integer a,integer b){
         integer sub = a-b;
         System.debug(sub);
